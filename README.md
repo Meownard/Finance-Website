@@ -24,4 +24,4 @@ LOGIN PAGE:
 ![Finance Login](Finance/login.png)
 
 SignUp PAGE:
-![Finance SignUp](Finance/signin.png)
+![Finance SignUp](Finance/signup.png)

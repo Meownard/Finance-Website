@@ -16,6 +16,7 @@ User-Friendly Interface – Intuitive design for easy navigation and financial a
 
 This project aims to transition from a desktop-based system to a modern, accessible web platform for seamless financial management.
 
+
 HOMEPAGE:
 ![Finance Home](Finance/homepage.png)
 ![Finance Home](Finance/homepage1.png)
@@ -23,5 +24,5 @@ HOMEPAGE:
 LOGIN PAGE:
 ![Finance Login](Finance/login.png)
 
-SignUp PAGE:
+SIGNUP PAGE:
 ![Finance SignUp](Finance/signup.png)
